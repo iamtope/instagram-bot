@@ -1,7 +1,7 @@
 {
     "base_url": "https://www.instagram.com",
-    "username": "totes_hub",
-    "password": "1Temitope",
+    "username": "your ig_username",
+    "password": "yourm ig_password",
     "hashTags": ["totes","cat","soccer", "places","football", "Motivation"],
     "settings": {
       "run_every_x_hours": 3,
