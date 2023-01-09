@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "firebase-admin": "^6.1.0",
+    "firebase-admin": "^11.4.1",
     "puppeteer": "^1.9.0",
     "shuffle-array": "^1.0.1"
   }
